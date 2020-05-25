@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489233072132",
+    "firebase_url": "https://lojaflutter-10cf2.firebaseio.com",
+    "project_id": "lojaflutter-10cf2",
+    "storage_bucket": "lojaflutter-10cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489233072132:android:5f724ce9fa741b608cb551",
+        "android_client_info": {
+          "package_name": "om.maganha.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489233072132-0ppuoprq6adn5qn2gh5d43tlo8ema2sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLp9YW_HAvj4IshGcOnVFHRp8lYbedq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489233072132-0ppuoprq6adn5qn2gh5d43tlo8ema2sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
